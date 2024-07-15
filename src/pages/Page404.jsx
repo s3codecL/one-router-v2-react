@@ -1,5 +1,5 @@
-import image from "../assets/img/doguito404.svg";
-import "../assets/css/404.css";
+import image from "../assets/img/doguito404.svg"
+import '../assets/css/404.css'
 
 const Page404 = () => {
     return (
@@ -10,4 +10,4 @@ const Page404 = () => {
     )
 }
 
-export default Page404;
+export default Page404
